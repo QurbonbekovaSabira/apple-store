@@ -1,0 +1,19 @@
+@mixin title{
+    color: $black-sheep;
+font-size: 32px;
+font-weight: 700;
+}
+@mixin subtitle{
+    color:$jet-fuel;
+font-size: 16px;
+font-weight: 500;
+}
+
+@mixin text{
+    color:$jet-fuel;
+font-size: 16px;
+font-weight: 400;
+}
+@mixin btn{
+
+}
