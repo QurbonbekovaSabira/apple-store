@@ -1556,7 +1556,7 @@ body {
   height: 32px;
   display: inline-block;
   background-repeat: no-repeat;
-  background-image: url("./img/adventage-discount.png");
+  background-image: url("../img/adventage-discount.png");
   background-size: 32px 32px;
 }
 
@@ -1568,19 +1568,19 @@ body {
 }
 
 .advantages__card:nth-child(2) .advantages__subTitle::before {
-  background-image: url("./img/adventage-delivery.png");
+  background-image: url("../img/adventage-delivery.png");
 }
 
 .advantages__card:nth-child(3) .advantages__subTitle::before {
-  background-image: url("./img/adventage-card.png");
+  background-image: url("../img/adventage-card.png");
 }
 
 .advantages__card:nth-child(4) .advantages__subTitle::before {
-  background-image: url("./img/adventage-bank.png");
+  background-image: url("../img/adventage-bank.png");
 }
 
 .advantages__card:nth-child(5) .advantages__subTitle::before {
-  background-image: url("./img/adventage-approval.png");
+  background-image: url("../img/adventage-approval.png");
 }
 
 .advantages__text {
@@ -1626,21 +1626,21 @@ body {
     height: 64px;
     display: inline-block;
     background-repeat: no-repeat;
-    background-image: url("./img/adventage-discount.png");
+    background-image: url("../img/adventage-discount.png");
     background-size: 64px 64px;
     margin-right: 26px;
   }
   .advantages__card:nth-child(2)::before {
-    background-image: url("./img/adventage-delivery.png");
+    background-image: url("../img/adventage-delivery.png");
   }
   .advantages__card:nth-child(3)::before {
-    background-image: url("./img/adventage-card.png");
+    background-image: url("../img/adventage-card.png");
   }
   .advantages__card:nth-child(4)::before {
-    background-image: url("./img/adventage-bank.png");
+    background-image: url("../img/adventage-bank.png");
   }
   .advantages__card:nth-child(5)::before {
-    background-image: url("./img/adventage-approval.png");
+    background-image: url("../img/adventage-approval.png");
   }
   .advantages__card_content {
     max-width: 307px;
