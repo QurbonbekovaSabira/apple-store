@@ -77,12 +77,12 @@
     width: 12px;
     height: 12px;
     background-color: $verminal;
- 
+    border-radius: 50%;
   }
 }
-.intro__card_insurance_text span{
-  border-radius: 50%;
-}
+// .intro__card_insurance_text span{
+
+// }
 .intro__card_insurance_time {
   @include subtitle;
   font-size: 14px;
